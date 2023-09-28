@@ -19,15 +19,15 @@ in der letzten Woche habe ich mit dem hinterlegtem Projekt "MyTaag-ToDoApp" mein
 44min-Installieren der nötiigen Ressourcen 
 
 ###### Montag: 
-2:47h-Einlessen in CSS/JavaScript/HTML/PHP/MySQL
+2:47h-Einlessen in CSS/JavaScript/HTML/PHP/MySQL,
 1:14h-Schreiben der ersten Zeilen-Code(index.php)
 
 ###### Dienstag: 
-1:00h-Schreiben des signup.php
+1:00h-Schreiben des signup.php,
 2:00h-Schrieben des login.php
 
 ###### Mittwoch: 
-3:00h-Schreiben des todos2.php
+3:00h-Schreiben des todos2.php,
 
 ## 3-Verwendete Ressource 
 
