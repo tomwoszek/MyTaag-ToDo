@@ -4,7 +4,7 @@
 
 Hallo Zusammen, 
 
-in der letzten Woche habe ich mit dem hinterlegtem Projekt "MyTaag-ToDoApp" meine PHP,MySQL,CSS und JavaScript Kentnisse auf das nächste Level gebracht und mich umfasseend mit der Erstellung einer ansehnlichen UI und der programmierung verschiedener CRUD-Pperationen beschäftigt.
+Diese Woche habe ich intensiv an dem Projekt "MyTaag-ToDoApp" gearbeitet, um meine Kenntnisse in PHP, MySQL, CSS, HTML und JavaScript auf das nächste Level zu bringen. Dabei habe ich mich auf die Erstellung einer ansprechenden Benutzeroberfläche und die Programmierung verschiedener CRUD-Operationen konzentriert.
 
 #### Das Projekt umfasst folgende Endpunkte: 
 - NutzerSytem-SignUp
